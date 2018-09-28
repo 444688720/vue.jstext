@@ -1,0 +1,20 @@
+.ui.header:first-child {
+	margin-top: 50px;
+}
+.ui.blue.button{
+	float: right;
+	margin-bottom:20px;
+}
+.ui.card, .ui.cards>.card{
+	width: 100%;
+}
+.trash{
+	cursor: pointer;
+	float:right;
+}
+textarea{
+	width: 100%;
+}
+.ui.message{
+	margin-top:60px;
+}
